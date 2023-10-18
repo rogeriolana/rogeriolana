@@ -1,7 +1,8 @@
 ## Olá!!! Eu sou o Rogerio Lana
 
 
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas, Estudando Java
+- 🌱 Estudante de Analise e Desenvolvimento de Sistemas. 
+Estou me aprofundando na linguagem Java. 
 - 💬 Contate-me no email:rogeriolana9@gmail.com
 
 
