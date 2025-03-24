@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou o Rogerio Lana
 
 
-- 🌱 Estudante de Analise e Desenvolvimento de Sistemas. 
-Estou me aprofundando na linguagem Java. 
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas. 
+Me especializando cada vez mais em qualidade e teste de software 
 - 💬 Contate-me no email:rogeriolana9@gmail.com
 
 
