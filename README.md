@@ -1,8 +1,8 @@
 ## Olá!!! Eu sou o Rogerio Lana
 
 
-- 🌱 Formado em Analise e Desenvolvimento de Sistemas. 
-Me especializando cada vez mais em qualidade e teste de software 
+- 🌱 Formado em Analise e Desenvolvimento de Sistemas.
+- Pós-graduado em Engenharia de software com enfase em qualidade e testes 
 - 💬 Contate-me no email:rogeriolana9@gmail.com
 
 
